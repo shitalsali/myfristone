@@ -1,0 +1,77 @@
+
+.div1{
+    width:250px;
+    height:200px;
+    background-image: linear-gradient( to left, red, blue);
+    margin-top:60px;
+    border-radius: 50px;
+}
+.div2{
+    width:250px;
+    height:200px;
+    background-image: linear-gradient( to right, #ff8000,black);
+    border: 2px solid gray;
+    margin:4px;
+    position:absolute;
+   top:10%;
+    left:25%;
+    border-radius: 50%;
+  }
+.div3{
+    width:250px;
+    height:200px;
+    background-image: linear-gradient(to top,  #ff3700,black);
+    margin:4px; border: 2px solid gray;
+    margin:4px;
+     position:absolute;
+    top:10%;
+     left:50%;
+}
+.div4{
+    width:250px;
+    height:200px;
+    background-image: linear-gradient(to bottom, hwb(60 0% 0%), hsl(14, 100%, 50%));
+    margin:4px;  
+    position:absolute;
+    top:10%;
+     left:75%;
+     border-radius: 50%;
+}
+.div5{
+    width:250px;
+    height:200px;
+    background-image: linear-gradient(to left top, hwb(234 4% 88%), hwb(118 0% 0%));
+    margin-top:50px;
+    border-radius: 70px;  
+    
+}
+.div6{
+    width:250px;
+    height:200px;
+    background-image: linear-gradient(to right top, rgb(102, 255, 0), rgb(255, 85, 0));
+    margin:4px;  
+    position:absolute;
+    top:50%;
+     left:25%;
+     border-radius: 50%;
+}
+.div7{
+    width:250px;
+    height:200px;
+    background-image: linear-gradient(to left bottom, rgb(0, 110, 255), rgb(255, 85, 0));
+    margin:4px;  
+    position:absolute;
+    top:50%;
+     left:50%;
+     border-radius: 50%;
+}
+.div8{
+    width:250px;
+    height:200px;
+    background-image: linear-gradient(to right bottom,  rgb(51, 172, 51), hsl(36, 56%, 49%));
+    margin:4px;  
+    position:absolute;
+    top:50%;
+     left:75%;
+     border-radius: 50%;
+}
