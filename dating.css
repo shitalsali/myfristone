@@ -1,0 +1,58 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: blue;
+}
+#name1{
+    line-height: 40px;
+    margin-left:100px;
+    color:red;
+    
+    
+}
+#heading{
+  position: absolute;
+  top: 40px;
+  left:30% ;
+}
+img{
+    border-radius: 50px;
+    width:300px;
+    height:300px;
+    line-height: 50px;
+
+}
+#gender{
+    
+    margin-right:200px;
+    text-align: right;
+    padding-bottom: 50px;
+    margin-top: -250px;
+}
+#container{
+    position:absolute;
+    top:200px;
+    right:50%;
+}
+#check{
+    position:absolute;
+    bottom:5px;
+    
+    
+}
+#select{
+    text-align: right;
+    margin-right: 100px;
+}
+#main{
+    text-align: right;
+    margin-right: 100px;
+}
+#connect{
+    text-align: center;
+    margin-right: 200px ;
+}
+h2{
+    color:blue;
+}
