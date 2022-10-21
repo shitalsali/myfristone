@@ -1,0 +1,36 @@
+body{
+    background: url("https://image.shutterstock.com/image-photo/public-school-building-exterior-view-260nw-590214395.jpg");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
+h1{
+    text-align:center;
+    color:brown;
+    font-size:38px;
+    background-color: aqua;
+    
+}
+h3{
+    text-align:center;
+    color:red;
+    font-size:28px;
+}
+img{
+    display:block;
+    margin:0px auto;
+    width:300px;
+    height:250px;
+}
+.details{
+    font-size:40px;
+    color:palevioletred;
+    text-align:center;
+    
+    
+}
+#details1{
+    text-align:center;
+    font-size:20px;
+    color:brown;
+    background-color:aquamarine;
+}
